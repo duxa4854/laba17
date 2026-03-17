@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{314C6247-30EA-3492-19B6-DF847E3B326F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Step3_WeTHERcHOICE", "Step3_WeTHERcHOICE", "{BCE28E6D-F841-CDCD-C36F-08CB1E81293E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step3_WeatherChoice", "code\Step3_WeTHERcHOICE\Step3_WeatherChoice.csproj", "{3A8ACA2D-4B22-B84E-0678-8FC666E39AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8ACA2D-4B22-B84E-0678-8FC666E39AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8ACA2D-4B22-B84E-0678-8FC666E39AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8ACA2D-4B22-B84E-0678-8FC666E39AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8ACA2D-4B22-B84E-0678-8FC666E39AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BCE28E6D-F841-CDCD-C36F-08CB1E81293E} = {314C6247-30EA-3492-19B6-DF847E3B326F}
+		{3A8ACA2D-4B22-B84E-0678-8FC666E39AB9} = {BCE28E6D-F841-CDCD-C36F-08CB1E81293E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BAB26B9-A85B-411A-A61D-CF026345E1DD}
+	EndGlobalSection
+EndGlobal
